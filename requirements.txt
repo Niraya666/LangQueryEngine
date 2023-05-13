@@ -1,0 +1,6 @@
+langchain==0.0.162
+openai==0.27.0
+transformers==4.28.0
+gradio==3.23
+faiss-cpu==1.7.3
+pymongo==4.3.2

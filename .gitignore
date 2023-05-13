@@ -1,0 +1,17 @@
+# .gitignore
+
+# Environment files
+.env
+
+# Faiss index files
+*.faiss
+
+# Pickle files
+*.pkl
+
+# Jupyter notebook files
+*.ipynb
+
+# Jupyter notebook checkpoint directories
+.ipynb_checkpoints/
+
